@@ -1,0 +1,23 @@
+{
+  "name": "nodeapp",
+  "version": "0.0.1",
+  "description": "firt",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ll"
+  },
+  "keywords": [
+    "yes"
+  ],
+  "author": "yasser",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "mongodb": "^3.0.4"
+  }
+}
